@@ -1,3 +1,3 @@
 # typeOf
 
-![console results](console.png)
+![console results](console.png)# hfjschapt7
