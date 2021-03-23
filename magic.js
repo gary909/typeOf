@@ -51,3 +51,14 @@ for(var i = 0; i < emot.length; i++) {
 
 console.log("hugs: " + hugs + " Kisses: " + kisses);
 console.log("That's your lot");
+
+var name = "Jenny";
+var phone = "867-5309";
+var fact = "This is a prime number";
+
+var songName = phone + "/" + name;
+
+var index = phone.indexOf("-");
+if (fact.substring(10, 15) === "prime") {
+    alert(fact);
+}
